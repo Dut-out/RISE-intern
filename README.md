@@ -14,9 +14,9 @@ To-Do list is an application which provide user to manage there daily task by cr
 - Responsive Design
 
 ## Screenshots
-![img1](https://github.com/Dut-out/RISE-intern/blob/main/screenshots/screenshots/img1.png)
-![img2](https://github.com/Dut-out/RISE-intern/blob/main/screenshots/screenshots/img2.png)
-![img3](https://github.com/Dut-out/RISE-intern/blob/main/screenshots/screenshots/img3.png)
-![img4](https://github.com/Dut-out/RISE-intern/blob/main/screenshots/screenshots/img4.png)
-![img5](https://github.com/Dut-out/RISE-intern/blob/main/screenshots/screenshots/img5.png)
-![img6](https://github.com/Dut-out/RISE-intern/blob/main/screenshots/screenshots/img6.png)
+![img1](https://github.com/Dut-out/RISE-intern/blob/main/screenshots/img1.png)
+![img2](https://github.com/Dut-out/RISE-intern/blob/main/screenshots/img2.png)
+![img3](https://github.com/Dut-out/RISE-intern/blob/main/screenshots/img3.png)
+![img4](https://github.com/Dut-out/RISE-intern/blob/main/screenshots/img4.png)
+![img5](https://github.com/Dut-out/RISE-intern/blob/main/screenshots/img5.png)
+![img6](https://github.com/Dut-out/RISE-intern/blob/main/screenshots/img6.png)
